@@ -1,0 +1,148 @@
+\begin{thebibliography}{28}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Achiam et~al.(2023)Achiam, Adler, Agarwal, Ahmad, Akkaya, Aleman, Almeida, Altenschmidt, Altman, Anadkat, et~al.]{achiam2023gpt}
+Josh Achiam, Steven Adler, Sandhini Agarwal, Lama Ahmad, Ilge Akkaya, Florencia~Leoni Aleman, Diogo Almeida, Janko Altenschmidt, Sam Altman, Shyamal Anadkat, et~al.
+\newblock Gpt-4 technical report.
+\newblock \emph{arXiv preprint arXiv:2303.08774}, 2023.
+
+\bibitem[Dally et~al.(2021)Dally, Keckler, and Kirk]{dally2021evolution}
+William~J Dally, Stephen~W Keckler, and David~B Kirk.
+\newblock Evolution of the graphics processing unit (gpu).
+\newblock \emph{IEEE Micro}, 41\penalty0 (6):\penalty0 42--51, 2021.
+
+\bibitem[Fujimoto(2008)]{fujimoto2008faster}
+Noriyuki Fujimoto.
+\newblock Faster matrix-vector multiplication on geforce 8800gtx.
+\newblock In \emph{2008 IEEE International Symposium on Parallel and Distributed Processing}, pages 1--8. IEEE, 2008.
+
+\bibitem[Hager and Wellein(2010)]{hager2010introduction}
+Georg Hager and Gerhard Wellein.
+\newblock \emph{Introduction to high performance computing for scientists and engineers}.
+\newblock CRC Press, 2010.
+
+\bibitem[Hager et~al.(2016)Hager, Treibig, Habich, and Wellein]{hager2016exploring}
+Georg Hager, Jan Treibig, Johannes Habich, and Gerhard Wellein.
+\newblock Exploring performance and power properties of modern multi-core chips via simple machine models.
+\newblock \emph{Concurrency and computation: practice and experience}, 28\penalty0 (2):\penalty0 189--210, 2016.
+
+\bibitem[Huang et~al.(2020)Huang, Liu, Jiang, and Zhou]{huang2020memory}
+Xiaohe Huang, Chunsen Liu, Yu-Gang Jiang, and Peng Zhou.
+\newblock In-memory computing to break the memory wall.
+\newblock \emph{Chinese Physics B}, 29\penalty0 (7):\penalty0 078504, 2020.
+
+\bibitem[Hummel and van Kooten(2019)]{hummel2019leveraging}
+Mathias Hummel and Kees van Kooten.
+\newblock Leveraging nvidia omniverse for in situ visualization.
+\newblock In \emph{International Conference on High Performance Computing}, pages 634--642. Springer, 2019.
+
+\bibitem[Kimm et~al.(2021)Kimm, Paik, and Kimm]{kimm2021performance}
+Haklin Kimm, Incheon Paik, and Hanke Kimm.
+\newblock Performance comparision of tpu, gpu, cpu on google colaboratory over distributed deep learning.
+\newblock In \emph{2021 IEEE 14th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)}, pages 312--319. IEEE, 2021.
+
+\bibitem[Kumar et~al.(2019)Kumar, Bitorff, Chen, Chou, Hechtman, Lee, Kumar, Mattson, Wang, Wang, et~al.]{kumar2019scale}
+Sameer Kumar, Victor Bitorff, Dehao Chen, Chiachen Chou, Blake Hechtman, HyoukJoong Lee, Naveen Kumar, Peter Mattson, Shibo Wang, Tao Wang, et~al.
+\newblock Scale mlperf-0.6 models on google tpu-v3 pods.
+\newblock \emph{arXiv preprint arXiv:1909.09756}, 2019.
+
+\bibitem[Lee-Makiyama and Baker(2024)]{lee2024huawei}
+Hosuk Lee-Makiyama and Robin Baker.
+\newblock How huawei weathered the storm: Resilience, market conditions or failed sanctions?
+\newblock Technical report, ECIPE Policy Brief, 2024.
+
+\bibitem[Li et~al.(2020)Li, Hou, Yan, Liu, Yang, and Sun]{li2020chiplet}
+Tao Li, Jie Hou, Jinli Yan, Rulin Liu, Hui Yang, and Zhigang Sun.
+\newblock Chiplet heterogeneous integration technology—status and challenges.
+\newblock \emph{Electronics}, 9\penalty0 (4):\penalty0 670, 2020.
+
+\bibitem[Liu et~al.(2024)Liu, Feng, Xue, Wang, Wu, Lu, Zhao, Deng, Zhang, Ruan, et~al.]{liu2024deepseek}
+Aixin Liu, Bei Feng, Bing Xue, Bingxuan Wang, Bochao Wu, Chengda Lu, Chenggang Zhao, Chengqi Deng, Chenyu Zhang, Chong Ruan, et~al.
+\newblock Deepseek-v3 technical report.
+\newblock \emph{arXiv preprint arXiv:2412.19437}, 2024.
+
+\bibitem[Melnyk(2016)]{melnyk2016parallel}
+Anatoliy Melnyk.
+\newblock Parallel ordered-access machine computational model and architecture.
+\newblock \emph{Advances in cyber-physical systems}, \penalty0 (1, Num. 2):\penalty0 93--101, 2016.
+
+\bibitem[Moon et~al.(2024)Moon, Kim, Kim, Hong, Cha, Kim, Lim, Choi, Seo, Kim, et~al.]{moon2024lpu}
+Seungjae Moon, Jung-Hoon Kim, Junsoo Kim, Seongmin Hong, Junseo Cha, Minsu Kim, Sukbin Lim, Gyubin Choi, Dongjin Seo, Jongho Kim, et~al.
+\newblock Lpu: A latency-optimized and highly scalable processor for large language model inference.
+\newblock \emph{IEEE Micro}, 2024.
+
+\bibitem[Naffziger et~al.(2020)Naffziger, Lepak, Paraschou, and Subramony]{naffziger2020amdchiplet}
+Samuel Naffziger, Kevin Lepak, Milam Paraschou, and Mahesh Subramony.
+\newblock 2.2 amd chiplet architecture for high-performance server and desktop products.
+\newblock In \emph{2020 IEEE International Solid-State Circuits Conference-(ISSCC)}, pages 44--45. IEEE, 2020.
+
+\bibitem[Narashiman et~al.(2024)Narashiman, Joshi, Sridhar, Rajesh, Sattva, Manjunath, et~al.]{narashiman2024chiplets}
+Swathi Narashiman, Divyaratna Joshi, Deepak Sridhar, Harish Rajesh, Sanjay Sattva, Varun Manjunath, et~al.
+\newblock Chiplets on wheels: Review paper on holistic chiplet solutions for autonomous vehicles.
+\newblock \emph{arXiv preprint arXiv:2406.00182}, 2024.
+
+\bibitem[Norrie et~al.(2021)Norrie, Patil, Yoon, Kurian, Li, Laudon, Young, Jouppi, and Patterson]{norrie2021design}
+Thomas Norrie, Nishant Patil, Doe~Hyun Yoon, George Kurian, Sheng Li, James Laudon, Cliff Young, Norman Jouppi, and David Patterson.
+\newblock The design process for google's training chips: Tpuv2 and tpuv3.
+\newblock \emph{IEEE Micro}, 41\penalty0 (2):\penalty0 56--63, 2021.
+
+\bibitem[Pal et~al.(2021)Pal, Liu, Alam, Cebry, Suhail, Bu, Iyer, Pamarti, Kumar, and Gupta]{pal2021designing}
+Saptadeep Pal, Jingyang Liu, Irina Alam, Nicholas Cebry, Haris Suhail, Shi Bu, Subramanian~S Iyer, Sudhakar Pamarti, Rakesh Kumar, and Puneet Gupta.
+\newblock Designing a 2048-chiplet, 14336-core waferscale processor.
+\newblock In \emph{2021 58th ACM/IEEE Design Automation Conference (DAC)}, pages 1183--1188. IEEE, 2021.
+
+\bibitem[Sch{\"o}ne et~al.(2021)Sch{\"o}ne, Ilsche, Bielert, Velten, Schmidl, and Hackenberg]{schone2021energy}
+Robert Sch{\"o}ne, Thomas Ilsche, Mario Bielert, Markus Velten, Markus Schmidl, and Daniel Hackenberg.
+\newblock Energy efficiency aspects of the amd zen 2 architecture.
+\newblock In \emph{2021 IEEE International Conference on Cluster Computing (CLUSTER)}, pages 562--571. IEEE, 2021.
+
+\bibitem[Shan et~al.(2022)Shan, Zheng, Xing, Chen, Li, and Yang]{shan2022architecture}
+Guangbao Shan, Yanwen Zheng, Chaoyang Xing, Dongdong Chen, Guoliang Li, and Yintang Yang.
+\newblock Architecture of computing system based on chiplet.
+\newblock \emph{Micromachines}, 13\penalty0 (2):\penalty0 205, 2022.
+
+\bibitem[Tang et~al.(2025)Tang, Zhou, Ji, and Wang]{tang2025cube}
+Yifeng Tang, Huaman Zhou, Zhuoran Ji, and Cho-Li Wang.
+\newblock Cube-fx: Mapping taylor expansion onto matrix multiplier-accumulators of huawei ascend ai processors.
+\newblock \emph{IEEE Transactions on Parallel and Distributed Systems}, 2025.
+
+\bibitem[Tirumala and Wong(2024)]{tirumala2024nvidia}
+Ajay Tirumala and Raymond Wong.
+\newblock Nvidia blackwell platform: Advancing generative ai and accelerated computing.
+\newblock In \emph{2024 IEEE Hot Chips 36 Symposium (HCS)}, pages 1--33. IEEE Computer Society, 2024.
+
+\bibitem[Vatanen(2024)]{vatanen2024exploring}
+Juho Vatanen.
+\newblock Exploring nvidia omniverse ecosystem.
+\newblock 2024.
+
+\bibitem[Zhang et~al.(2023)Zhang, Sun, Yu, Xie, Zheng, Iskra, Beckman, and Tao]{zhang2023benchmarking}
+Chengming Zhang, Baixi Sun, Xiaodong Yu, Zhen Xie, Weijian Zheng, Kamil~A Iskra, Pete Beckman, and Dingwen Tao.
+\newblock Benchmarking and in-depth performance study of large language models on habana gaudi processors.
+\newblock In \emph{Proceedings of the SC'23 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis}, pages 1759--1766, 2023.
+
+\bibitem[姚鹏 et~al.(2022)姚鹏, 宋昌明, 胡杨, 蔡坚, 尹首一, and 吴华强]{yao2022high}
+姚鹏, 宋昌明, 胡杨, 蔡坚, 尹首一, and 吴华强.
+\newblock 高算力芯片未来技术发展途径.
+\newblock \emph{前瞻科技}, 1\penalty0 (3):\penalty0 115, 2022.
+
+\bibitem[张政 and 冯少飞(2024)]{zhang2024big}
+张政 and 冯少飞.
+\newblock 大模型算力基础设施技术趋势, 关键挑战与发展路径.
+\newblock \emph{信息通信技术与政策}, 50\penalty0 (6):\penalty0 2, 2024.
+
+\bibitem[魏嘉 et~al.(2023)魏嘉, 陈默, 王龙翔, 任沛, 雷雨佳, 屈俞岐, 蒋骐羽, 董小社, 伍卫国, 张凯丽, et~al.]{wei2023data}
+魏嘉, 陈默, 王龙翔, 任沛, 雷雨佳, 屈俞岐, 蒋骐羽, 董小社, 伍卫国, 张凯丽, et~al.
+\newblock 数据密集型超算现状, 挑战以及未来发展趋势.
+\newblock \emph{数据与计算发展前沿}, 5\penalty0 (3):\penalty0 66--91, 2023.
+
+\bibitem[龚旗煌 et~al.(2023)龚旗煌, 罗先刚, 刘伍明, 戴道锌, 李涛, 肖云峰, 唐华, 何杰, and 刘克]{gong2023nanoscale}
+龚旗煌, 罗先刚, 刘伍明, 戴道锌, 李涛, 肖云峰, 唐华, 何杰, and 刘克.
+\newblock 纳光电子与光子芯片研究: 发展与挑战.
+\newblock \emph{中国科学基金}, 37\penalty0 (3):\penalty0 410--417, 2023.
+
+\end{thebibliography}

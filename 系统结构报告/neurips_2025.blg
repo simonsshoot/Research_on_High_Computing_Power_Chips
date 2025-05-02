@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: neurips_2025.aux
+The style file: plainnat.bst
+Database file #1: reference.bib
+Warning--there's a number but no volume in melnyk2016parallel
+Warning--empty journal in vatanen2024exploring
+You've used 28 entries,
+            2773 wiz_defined-function locations,
+            746 strings with 10862 characters,
+and the built_in function-call counts, 17504 in all, are:
+= -- 1459
+> -- 1485
+< -- 16
++ -- 499
+- -- 471
+* -- 1555
+:= -- 2762
+add.period$ -- 91
+call.type$ -- 28
+change.case$ -- 235
+chr.to.int$ -- 28
+cite$ -- 58
+duplicate$ -- 658
+empty$ -- 1116
+format.name$ -- 509
+if$ -- 3603
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 28
+newline$ -- 148
+num.names$ -- 112
+pop$ -- 478
+preamble$ -- 1
+purify$ -- 207
+quote$ -- 0
+skip$ -- 580
+stack$ -- 0
+substring$ -- 468
+swap$ -- 100
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 303
+warning$ -- 2
+while$ -- 125
+width$ -- 0
+write$ -- 369
+(There were 2 warnings)
